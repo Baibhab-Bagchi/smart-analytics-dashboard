@@ -49,16 +49,16 @@ A full-stack **AI-powered analytics dashboard** with admin panel, user managemen
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](./login.png)
+![Login](./Login page.png)
 
 ### 📊 Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ### 👑 Admin Panel
-![Admin](./admin.png)
+![Admin](./Admin dashboard.png)
 
 ### 👤 Profile Page
-![Profile](./profile.png)
+![Profile](./Profile.png)
 
 ### ⚙️ Settings Page
 ![Settings](./settings.png)
