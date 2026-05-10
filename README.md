@@ -55,7 +55,7 @@ A full-stack **AI-powered analytics dashboard** with admin panel, user managemen
 ![Dashboard](./Dashboard.png)
 
 ### 👑 Admin Panel
-![Admin](./Admin dashboard.png)
+![Admin](./Admin_Page.png)
 
 ### 👤 Profile Page
 ![Profile](./Profile.png)
